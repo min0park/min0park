@@ -1,16 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Min</h1>
+<h3 align="center">Data Analyst & Researcher</h3>
 
+- 🔭 I’m currently working on **finding association between patient satisfaction and cost/spending efficiency**
 
-**min0park/min0park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at **this github**
 
-Here are some ideas to get you started:
+- 📄 Know about my experiences [www.linkedin.com/in/min-ypark](www.linkedin.com/in/min-ypark)
 
-- 🔭 I’m currently working on data analysis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: qkralsdud777@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **qkralsdud777@gmail.com**
