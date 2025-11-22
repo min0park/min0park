@@ -5,6 +5,6 @@
 
 - 👨‍💻 All of my projects are available at **this github**
 
-- 📄 Know about my experiences [www.linkedin.com/in/min-ypark](www.linkedin.com/in/min-ypark)
+- 📄 LinkedIn: [www.linkedin.com/in/min-ypark](www.linkedin.com/in/min-ypark)
 
-- 📫 How to reach me **qkralsdud777@gmail.com**
+- Email: **qkralsdud777@gmail.com**
