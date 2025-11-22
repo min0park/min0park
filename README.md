@@ -4,7 +4,3 @@
 - 🔭 I’m currently working on **finding association between patient satisfaction and cost/spending efficiency**
 
 - 👨‍💻 All of my projects are available at **this github**
-
-- 📄 LinkedIn: [www.linkedin.com/in/min-ypark](www.linkedin.com/in/min-ypark)
-
-- Email: **qkralsdud777@gmail.com**
